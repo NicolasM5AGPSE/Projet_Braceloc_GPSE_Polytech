@@ -2,6 +2,12 @@
 
 The GitHub repository contains all the necessary documents, files, and resources to replicate the project.
 
+# Introduction
+This project embodies a fusion of technology and practicality to ensure safety and connectivity for individuals in various outdoor scenarios, such as hiking in remote areas, school outings, or even leisure activities like mushroom foraging in dense forests.
+These bracelets, when paired, allow users within a group to share and track each other's locations in real-time, even in the most challenging environments where traditional network signals fail.
+Braceloc leverages state-of-the-art GPS technology embedded in wearable bracelets. Our vision is to provide peace of mind and enhance safety for our users, enabling them to locate their friends, family, or any group member instantly over considerable distances.
+
+
 # ________________________________________________________
 
 ## Application Mobile
@@ -22,19 +28,21 @@ File to import into the extensions of MIT App Inventor in order to use Bluetooth
 Folder containing files for the data security part.
 
 ### crypto1
-Crypto 1: RSA and AES class, allowing testing of both encryption methods together.
+RSA and AES class, allowing testing of both encryption methods together.
 ### crypto3
-Crypto 3: RSA class implementing RSA encryption and the Diffie-Hellman method.
+RSA class implementing RSA encryption and the Diffie-Hellman method.
 ### crypto4_AES_RSA
-Crypto AES_RSA: AES class implementing AES encryption.
+AES class implementing AES encryption.
 
 # ________________________________________________________
 
 ## Diagramme
+File containing all the diagrams of the project.
 
 # ________________________________________________________
 
 ## GPS et BLE/Code_GPS_BLE
+This folder contains the code for BLE and GPS on the Arduino IDE. The code is fully commented in English.
 
 # ________________________________________________________
 
@@ -81,7 +89,19 @@ See the examples folder for usage scenarios and configuration examples.
 # ________________________________________________________
 
 ## PowerPoint soutenance projet
+Folder including project presentation slides.
 
 # ________________________________________________________
 
 ## Répartition des taches
+Folder containing the task distribution for each group member.
+
+# ________________________________________________________
+
+## Software and Libraries Used.txt
+List of software and libraries used during the project.
+
+# ________________________________________________________
+
+## bibliographie.txt
+List of useful documents for the project.
