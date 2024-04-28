@@ -4,7 +4,9 @@ The GitHub repository contains all the necessary documents, files, and resources
 
 # Introduction
 This project embodies a fusion of technology and practicality to ensure safety and connectivity for individuals in various outdoor scenarios, such as hiking in remote areas, school outings, or even leisure activities like mushroom foraging in dense forests.
+
 These bracelets, when paired, allow users within a group to share and track each other's locations in real-time, even in the most challenging environments where traditional network signals fail.
+
 Braceloc leverages state-of-the-art GPS technology embedded in wearable bracelets. Our vision is to provide peace of mind and enhance safety for our users, enabling them to locate their friends, family, or any group member instantly over considerable distances.
 
 
