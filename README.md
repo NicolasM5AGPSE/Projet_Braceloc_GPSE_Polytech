@@ -10,7 +10,7 @@ These bracelets, when paired, allow users within a group to share and track each
 Braceloc leverages state-of-the-art GPS technology embedded in wearable bracelets. Our vision is to provide peace of mind and enhance safety for our users, enabling them to locate their friends, family, or any group member instantly over considerable distances.
 
 
-# ________________________________________________________
+# Description of each folder
 
 ## Application Mobile
 Folder containing files for creating the Braceloc mobile application.
