@@ -2,7 +2,7 @@
 
 The GitHub repository contains all the necessary documents, files, and resources to replicate the project.
 
-
+# ________________________________________________________
 
 ## Application Mobile
 Folder containing files for creating the Braceloc mobile application.
@@ -28,9 +28,18 @@ Crypto 3: RSA class implementing RSA encryption and the Diffie-Hellman method.
 ### crypto4_AES_RSA
 Crypto AES_RSA: AES class implementing AES encryption.
 
+# ________________________________________________________
+
 ## Diagramme
+
+# ________________________________________________________
+
 ## GPS et BLE/Code_GPS_BLE
+
+# ________________________________________________________
+
 ## Lora et meshtastic
+
 ### Braceloc Firmware
 
 ### Overview
@@ -69,6 +78,10 @@ Copy code
 platformio run --target upload
 See the examples folder for usage scenarios and configuration examples.
 
+# ________________________________________________________
 
 ## PowerPoint soutenance projet
+
+# ________________________________________________________
+
 ## Répartition des taches
