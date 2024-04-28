@@ -100,10 +100,19 @@ Folder containing the task distribution for each group member.
 
 # ________________________________________________________
 
+## Document_Technique_Projet_Braceloc_4AGPSE.pdf
+Technical document of the Braceloc project.
+
+# ________________________________________________________
+
 ## Software and Libraries Used.txt
 List of software and libraries used during the project.
 
 # ________________________________________________________
 
+## Sujet Braceloc.pdf
+Introduction to the Braceloc project.
+
+# ________________________________________________________
 ## bibliographie.txt
 List of useful documents for the project.
