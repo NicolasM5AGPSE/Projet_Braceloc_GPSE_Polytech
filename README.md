@@ -25,21 +25,37 @@ PlateformIO
 ## Librairies utilisées : 
 ### Network transmission security
   #include "mbedtls/aes.h"
+  
   #include "Arduino.h"
+  
   #include "mbedtls/entropy.h"
+  
   #include "mbedtls/ctr_drbg.h"
+  
   #include "mbedtls/config.h"
+  
   #include "mbedtls/platform.h"
+  
   #include "mbedtls/rsa.h"
+  
   #include "mbedtls/error.h"
-  #include "mbedtls/md.h
+  
+  #include "mbedtls/md.h"
+  
   #include "mbedtls/bignum.h"
+  
 
 ### BLE & GPS
   #include <Arduino.h>
+  
   #include <BLEDevice.h>
+  
   #include <BLEUtils.h>
+  
   #include <BLEServer.h>
+  
   #include <BLE2902.h>
+  
   #include <TinyGPSPlus.h>
+  
   #include <SoftwareSerial.h>
