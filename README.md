@@ -13,7 +13,10 @@ File to import into MIT App Inventor https://appinventor.mit.edu/ to modify the 
 Braceloc application software for Android.
 ### braceloc app screen.png
 Image of the code for better visualization compared to the technical document Figure 14
+### edu.mit.appinventor.ble-20230728.aix
+File to import into the extensions of MIT App Inventor in order to use BluetoothLE.
 
+# _________________________________________________________________________________________
 
 ## Braceloc_crypto
 Folder containing files for the data security part.
