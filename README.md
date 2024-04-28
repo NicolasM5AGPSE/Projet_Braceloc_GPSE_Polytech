@@ -16,7 +16,7 @@ Image of the code for better visualization compared to the technical document Fi
 ### edu.mit.appinventor.ble-20230728.aix
 File to import into the extensions of MIT App Inventor in order to use BluetoothLE.
 
-# _________________________________________________________________________________________
+# ________________________________________________________
 
 ## Braceloc_crypto
 Folder containing files for the data security part.
