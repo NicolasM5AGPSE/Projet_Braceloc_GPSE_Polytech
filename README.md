@@ -8,7 +8,7 @@ The GitHub repository contains all the necessary documents, files, and resources
 Folder containing files for creating the Braceloc mobile application.
 
 ### Braceloc_App.aia
-File to import into MIT App Inventor to modify the code.
+File to import into MIT App Inventor https://appinventor.mit.edu/ to modify the code.
 ### Braceloc_App.apk
 Braceloc application software for Android.
 ### braceloc app screen.png
