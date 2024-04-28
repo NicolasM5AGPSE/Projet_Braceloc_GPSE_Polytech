@@ -1,0 +1,48 @@
+Bibliographies
+
+Title: GitHub - mickael458/Braceloc-mesh-
+URL: https://github.com/mickael458/Braceloc-mesh-
+Description: Main GitHub repository for the Braceloc mesh network project.
+
+Title: GitHub - markuslehner/lora-mesh-network
+URL: https://github.com/markuslehner/lora-mesh-network
+Description: Simulator and demonstrator of a LoRa mesh network repository on GitHub.
+
+
+Title: LoRa Configuration | Meshtastic
+URL: https://meshtastic.org
+Description: A detailed guide on configuring LoRa mesh network settings.
+
+
+Title: Sensors 21, 4314; doi:10.3390/s21134314
+URL: https://mdpi-res.com/d_attachment/sensors/sensors-21-04314/article_deploy/sensors-21-04314.pdf
+Description: A research article on LoRa-based mesh networks.
+
+
+Title: GitHub - Meshtastic/firmware
+URL: https://github.com/meshtastic/firmware
+Description: GitHub repository for Meshtastic firmware, which supports various LoRa-based mesh network functionalities.
+
+
+Title: Heltec WiFi LoRa V3 Project Example
+URL: https://heltec.org/project/wifi-lora-32/
+Description: A project example on Heltec’s official site showcasing how to set up a LoRa mesh network using the WiFi LoRa 32 (V3) board.
+
+Title: BME280 Combined humidity and pressur sensor
+URL: https://www.mouser.com/datasheet/2/783/BST-BME280-DS002-1509607.pdf
+Description: Datasheet of the BME280 component
+
+Title: GY-NEO6MV2 Flight Control GPS Module
+URL: https://www.datasheethub.com/gy-neo6mv2-flight-control-gps-module/
+Description: Datasheet of the GY-NEO6MV2 component
+
+Title: Adafruit Ultimate GPS
+URL: https://www.datasheethub.com/gy-neo6mv2-flight-control-gps-module/
+Description: Datasheet of the Adafruit Ultimate GPS v3 component
+Title: Get Started with MIT App Inventor
+URL: https://appinventor.mit.edu/explore/get-started
+Description: Tutorial to get started on MIT App Inventor
+
+Title: MIT App Inventor Extensions
+URL: https://mit-cml.github.io/extensions/
+Description: Links to download the BluetoothLE extension.

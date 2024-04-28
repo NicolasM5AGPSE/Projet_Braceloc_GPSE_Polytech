@@ -1,0 +1,42 @@
+Software and Libraries Used
+
+Software: VS Code with PlatformIO
+Description: IDE and platform used for development.
+
+Library: jgromes/RadioLib Version: ~6.5.0 Link: https://github.com/jgromes/RadioLib
+Description: A universal radio library for Arduino.
+
+Library: ESP8266_SSD1306 Version: Commit ee628ee Link: https://github.com/meshtastic/esp8266-oled-ssd1306.git
+Description: OLED display library for ESP8266.
+
+Software: mathertel/OneButton
+Description: ^2.5.0
+
+Library: Arduino FSM Version: Commit 7db3702 Link: https://github.com/meshtastic/arduino-fsm.git
+Description: Finite state machine library for Arduino.
+
+Library: TinyGPSPlus Version: Commit 964f75a Link: https://github.com/meshtastic/TinyGPSPlus.git
+Description: GPS library for Arduino.
+
+Library: ArduinoThread Version: Commit 1ae8778 Link: https://github.com/meshtastic/ArduinoThread.git
+Description: Multithreading library for Arduino.
+
+Software: nanopb/Nanopb Version: ^0.4.7
+
+Software: Arduino IDE
+Description: IDE and platform used for development.
+
+Software: MIT App inventor
+Description: platform used for development of the mobile application.
+Library: BluetoothLE Version: 20230728 Link: https://github.com/mit-cml/appinventor-extensions/tree/extension/bluetoothle
+Description: Source code of extensions for using BLE tools on MIT App Inventor.
+
+Library: BluetoothSerial Version: 0.0.0+sha.f56002898ee8 Link: https://registry.platformio.org/libraries/mbed-seeed/BluetoothSerial/installation
+Description: library for BluetoothLE.
+
+Library: SoftwareSerial Version: 1.0 Link: https://registry.platformio.org/libraries/featherfly/SoftwareSerial
+Description: library to create UART communications pins.
+
+Software: erriez/ErriezCRC32 Version: ^1.0.1
+
+
